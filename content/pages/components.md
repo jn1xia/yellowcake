@@ -1,8 +1,8 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+title: Profile
+featuredImage: https://ucarecdn.com/baab56bf-6241-4f49-b24b-04b582418834/
 subtitle: This is the components page subtitle.
 section1: >-
   ## This is a container component
