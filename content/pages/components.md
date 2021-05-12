@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: components
 title: Profile
 featuredImage: https://ucarecdn.com/baab56bf-6241-4f49-b24b-04b582418834/
-subtitle: This is the components page subtitle.
+subtitle: Yuk kenal lebih dekat dengan Gadjah Mada Muda!
 section1: >-
   ## This is a container component
 
@@ -29,15 +29,15 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
+  - alt: Gambar 1
     image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
+    title: Gambar 1
+  - alt: Gambar 2
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
+    title: Gambar 2
+  - alt: Gambar 3
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+    title: Gambar 3
 meta:
   description: This is a meta description.
   title: Components Page
