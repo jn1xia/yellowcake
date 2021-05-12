@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: components
 title: Profile
 featuredImage: https://ucarecdn.com/baab56bf-6241-4f49-b24b-04b582418834/
-subtitle: This is the components page subtitle.
+subtitle: Yuk kenal lebih dekat dengan Gadjah Mada Muda!
 section1: >-
   ## This is a container component
 
