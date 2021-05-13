@@ -35,9 +35,9 @@ gallery:
   - alt: Gambar 2
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
     title: Gambar 2
-  - alt: Gambar 3
+  - alt: Gambar 3rd
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Gambar 3
+    title: Gambar 3rd
 meta:
   description: This is a meta description.
   title: Components Page
