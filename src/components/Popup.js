@@ -39,7 +39,7 @@ class Popup extends Component {
             aria-label="Toggle Popup"
             role="button"
           >
-            Click To Launch Popup
+            Kontak Kami
           </div>
         </div>
         {this.state.showPopup ? (
