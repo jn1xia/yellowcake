@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: News
 featuredImage: https://ucarecdn.com/8c0a704f-b2fb-48e6-8da1-0f74ea33d6da/
 subtitle: |-
   Share yuk keseruan kamu bersama Gadjah Mada & Jogja\
