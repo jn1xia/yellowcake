@@ -5,7 +5,7 @@ title: Profile
 featuredImage: https://ucarecdn.com/baab56bf-6241-4f49-b24b-04b582418834/
 subtitle: Yuk kenal lebih dekat dengan Gadjah Mada Muda!
 section1: >-
-  ## Introductions
+  ## Introduction
 
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
