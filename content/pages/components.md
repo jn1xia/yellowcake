@@ -38,7 +38,7 @@ gallery:
     title: Picture 2
   - alt: Picture 3
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Picture 3rd
+    title: Picture 3
 meta:
   description: This is a meta description.
   title: Components Page
