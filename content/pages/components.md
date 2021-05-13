@@ -5,7 +5,7 @@ title: Profile
 featuredImage: https://ucarecdn.com/baab56bf-6241-4f49-b24b-04b582418834/
 subtitle: Yuk kenal lebih dekat dengan Gadjah Mada Muda!
 section1: >-
-  ## Introduction
+  ## Introductions
 
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
@@ -30,15 +30,15 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: Gambar 1
+  - alt: Picture 1
     image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Gambar 1
-  - alt: Gambar 2
+    title: Picture 1
+  - alt: Picture 2
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: Gambar 2
-  - alt: Gambar 3rd
+    title: Picture 2
+  - alt: Picture 3
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Gambar 3rd
+    title: Picture 3rd
 meta:
   description: This is a meta description.
   title: Components Page
