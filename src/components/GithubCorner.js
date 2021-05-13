@@ -29,3 +29,5 @@ export default ({ url, style, className = '', color = '#151513' }) => (
         fill="currentColor"
       />
     </svg>
+  </a>
+)
