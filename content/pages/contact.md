@@ -1,9 +1,9 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Kontak Kami
 featuredImage: https://ucarecdn.com/6f8a06b7-2334-4b48-b497-dc89bbe3a1f3/
-subtitle: This is the contact page subtitle.
+subtitle: Mari terhubung dengan kami!
 address: Sleman, Yogyakarta
 phone: "087787592805"
 email: edmundjevon21@gmail
