@@ -1,18 +1,29 @@
 ---
 template: SinglePost
-title: Red
+title: Selamat Hari Pendidikan Nasional
 status: Featured / Published
-date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
+date: 2018-03-27
+featuredImage: https://ucarecdn.com/0eea2dfe-33a0-4690-9871-0533e3c60724/
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+  Banyak dari kita, engga pernah menyangka, ada dititik seperti ini. Berada
+  saling berjauhan untuk menjaga satu sama lain dan harus tetap berbahagia akan
+  apa yang sudah terjadi.
+
+  Begitupun tentang pendidikan, ternyata secepat itu ya kita merasakan bahwa pendidikan pun telah kita lalui sekian lamanya hari tanpa bertatapan muka langsung, bersama teman sebangku saling bertanya ketika sulit mengerti apa yang sedang diajarkan oleh Bu Guru. Dan mungkin, Ki Hajar Dewantara, pun.
+
+  Terima kasih sudah banyak melalui lebih dari setahun ini untuk tetap saling menjaga, untuk tetap terus belajar, dan untuk tetap terus mengejar pendidikan. Di mana pun dan bersama siapa pun kalian berada, pendidikan itu ada.
+
+
+  Selamat Hari Pendidikan Nasional untuk segenap para pendidik diseluruh Nusantara ini.
+
+
+  #selamathardiknas
+
+  #selamatharipendidikannasional
 categories:
   - category: News
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: test meta description
   noindex: false
   title: test meta title
